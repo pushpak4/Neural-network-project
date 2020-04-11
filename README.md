@@ -1,0 +1,2 @@
+# Neural-network-project
+RASPBERRY PI, NEURAL NETWORK, SENSOR BASED CODES
